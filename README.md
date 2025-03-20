@@ -1,4 +1,9 @@
 # Neural-Networks-and-Deep-Learning
-This repo is based on UCLA EC-ENGR C247
+## Disclaimer
 
-"Some template code provided by course TAs. Used here for educational purposes only. Do not reuse without permission."
+This repository contains homework assignments from [Course Name] at [University Name].  
+Some template code and function definitions were provided by the course instructors and TAs.  
+This code is shared for educational purposes only and should not be copied or reused for coursework.
+
+If you're enrolled in this course, please follow your school's academic integrity policies.
+
