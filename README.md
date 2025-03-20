@@ -5,5 +5,5 @@ This repository contains homework assignments from [C247 Neural Networks and Dee
 Some template code and function definitions were provided by the course instructors and TAs.  
 This code is shared for educational purposes only and should not be copied or reused for coursework.
 
-If you're enrolled in this course, please follow your school's academic integrity policies.
+If you're enrolled in this course, please follow the academic integrity policies.
 
